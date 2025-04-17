@@ -17,6 +17,7 @@ Answer the question using only the following context:
 Answer this question based on the context above: {question} 
 """
 
+
 def chatbot_response():
     # Parser to input the query text in the command line
     parser = argparse.ArgumentParser()
